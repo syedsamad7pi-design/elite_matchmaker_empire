@@ -1,2 +1,3 @@
 
-function App(){return <h1>READY</h1>} export default App
+function App(){return <h1>READY</h1>}
+export default App
