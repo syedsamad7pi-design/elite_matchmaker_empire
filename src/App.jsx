@@ -1,2 +1,2 @@
 
-export default function App(){return <h1>ELITE MATCHMAKER READY</h1>}
+function App(){return <h1>READY</h1>} export default App
