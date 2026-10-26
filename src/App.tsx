@@ -7,7 +7,7 @@ export default function App() {
     <div style={{minHeight:'100vh', background:'#0a0a0a', color:'white', fontFamily:'serif', padding:'20px'}}>
       <header style={{display:'flex', justifyContent:'space-between', maxWidth:'1100px', margin:'0 auto'}}>
         <h1 style={{fontWeight:'bold'}}><span style={{color:'#D4AF37'}}>ELITE</span> MATCHMAKER</h1>
-        <a href="https://wa.me/923001234567" style={{background:'#D4AF37', color:'black', padding:'8px 20px', borderRadius:'20px', textDecoration:'none', fontWeight:'bold'}}>WhatsApp</a>
+        <a href="https://wa.me/923704013637" style={{background:'#D4AF37', color:'black', padding:'8px 20px', borderRadius:'20px', textDecoration:'none', fontWeight:'bold'}}>WhatsApp</a>
       </header>
 
       <div style={{textAlign:'center', padding:'60px 10px', maxWidth:'800px', margin:'0 auto'}}>
@@ -30,7 +30,7 @@ export default function App() {
             <option value="">For?</option><option>Son</option><option>Daughter</option><option>Brother</option><option>Sister</option>
           </select>
         </div>
-        <a href={`https://wa.me/923001234567?text=Salam! Name:${form.name}, City:${form.city}, For:${form.type} - Elite Matchmaker`} style={{display:'block', textAlign:'center', background:'black', color:'white', padding:'16px', borderRadius:'12px', fontWeight:'bold', marginTop:'20px', textDecoration:'none'}}>
+        <a href={`https://wa.me/923704013637?text=Salam! Name:${form.name}, City:${form.city}, For:${form.type} - Elite Matchmaker`} style={{display:'block', textAlign:'center', background:'black', color:'white', padding:'16px', borderRadius:'12px', fontWeight:'bold', marginTop:'20px', textDecoration:'none'}}>
           Send On WhatsApp →
         </a>
       </div>
